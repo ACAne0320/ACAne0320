@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ACAne0320/ACAne0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[**Promise - AliA**](https://open.spotify.com/track/6swshixsuo77qVEW2CQcUA)  
+
+> Wherever you are,  
+Whatever dreams you're dreaming,  
+How I wish I could make you proud of me.
+
+[![ACAne0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=acane0320&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
