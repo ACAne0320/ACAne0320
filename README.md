@@ -2,7 +2,7 @@
 
 ### Now playing
 
-[![Now Playing](https://now-playing-acane.vercel.app/now-playing.svg?template=sky)](https://now-playing-acane.vercel.app/now-playing.svg?template=sky)
+[![Now Playing](https://now-playing-acane.vercel.app/now-playing.svg?template=sky)](https://github.com/ACAne0320/now-playing)
 
 ---
 
