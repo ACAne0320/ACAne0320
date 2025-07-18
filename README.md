@@ -1,22 +1,13 @@
-<!--
-**ACAne0320/ACAne0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Now playing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Now Playing](https://now-playing-acane.vercel.app/now-playing.svg?template=sky)](https://now-playing-acane.vercel.app/now-playing.svg?template=sky)
 
-[**Promise - AliA**](https://open.spotify.com/track/6swshixsuo77qVEW2CQcUA)  
+---
 
-> Wherever you are,  
-Whatever dreams you're dreaming,  
-How I wish I could make you proud of me.
+### GitHub Stats
 
-[![ACAne0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=acane0320&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ACAne0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=acane0320&show_icons=true&hide_rank=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
